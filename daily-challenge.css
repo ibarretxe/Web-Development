@@ -1,27 +1,14 @@
 body {
-  text-align: center;
-  background-color: rgb(233, 215, 207);
   margin: 50px;
 }
 
 h1 {
   font-family: "Oswald", sans-serif;
-  color: rgb(83, 75, 75);
 }
 
 p {
   font-family: "Fira Sans", sans-serif;
   color: rgb(83, 75, 75);
-}
-
-a {
-  font-family: sans-serif;
-  color: rgb(167, 1, 78);
-  text-decoration: none;
-}
-a:hover {
-  color: rgb(255, 0, 0);
-  text-decoration: underline;
 }
 
 #todays-challenge {
